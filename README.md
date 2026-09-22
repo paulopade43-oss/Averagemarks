@@ -1,0 +1,2 @@
+# Averagemarks
+code in java
